@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_userprofile/static/css/main.39ccc635.css",
+    "main.js": "/react_userprofile/static/js/main.2b22d564.js",
+    "index.html": "/react_userprofile/index.html",
+    "main.39ccc635.css.map": "/react_userprofile/static/css/main.39ccc635.css.map",
+    "main.2b22d564.js.map": "/react_userprofile/static/js/main.2b22d564.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39ccc635.css",
+    "static/js/main.2b22d564.js"
+  ]
+}
