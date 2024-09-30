@@ -1,3 +1,25 @@
+# Output
+<img width="929" alt="Screenshot 2024-08-26 213154" src="https://github.com/user-attachments/assets/3a4ea1cb-cb74-4780-a727-5a6886eb3c75">
+
+# Description
+
+## React Calculator
+
+This project is a web-based calculator application developed using React.js. It allows users to perform basic arithmetic operations including addition, subtraction, multiplication, and division. The goal is to provide a simple and interactive user interface for quick calculations.
+
+### Features
+- **User-Friendly Interface**: Easy-to-use layout for entering numbers and operations.
+- **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
+- **Real-Time Calculation**: Displays results instantly as users input data.
+- **Clear Functionality**: Resets the calculator for a new calculation.
+- **Responsive Design**: Optimized for different screen sizes.
+
+### Technologies Used
+- **React.js**: JavaScript library for building the user interface.
+- **CSS**: Styling the calculator's layout and appearance.
+- **JavaScript**: Logic for handling calculations and managing state.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
